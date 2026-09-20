@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="300" viewBox="0 0 300 300">
+  <defs>
+    <clipPath id="clip-favicon">
+      <rect width="300" height="300"/>
+    </clipPath>
+  </defs>
+  <g id="favicon" clip-path="url(#clip-favicon)">
+    <rect width="300" height="300" fill="#fff"/>
+    <g id="favicon-2" data-name="favicon" transform="translate(0 -0.02)">
+      <g id="Group_27" data-name="Group 27" transform="translate(0 0.02)">
+        <g id="Group_26" data-name="Group 26" transform="translate(0 0)">
+          <g id="Group_25" data-name="Group 25">
+            <path id="Path_66" data-name="Path 66" d="M97.821,130.279c-24.932,0-45.221-20.058-45.221-44.718S72.889,40.843,97.821,40.843,143.042,60.9,143.042,85.561s-20.289,44.718-45.221,44.718ZM139.625,16H55.54L13.148,90.525,55.54,165.06H140.1l42.387-74.52Z" transform="translate(52.178 64.454)" fill="#2a2a2a" fill-rule="evenodd"/>
+            <path id="Path_67" data-name="Path 67" d="M136.555,80.5a148.119,148.119,0,0,0-14.116-63.226L82.084,87.423a5.045,5.045,0,0,1-1.317,1.361L40.71,160h72.781a148.117,148.117,0,0,0,23.065-79.5" transform="translate(163.445 69.552)" fill="#84ebff" fill-rule="evenodd"/>
+            <path id="Path_68" data-name="Path 68" d="M55.292,88.1,95.846,16H17.281a148.694,148.694,0,0,0,1.148,141.274l36.311-66.6a4.827,4.827,0,0,1,.552-2.574" transform="translate(0 64.401)" fill="#2a2a2a" fill-rule="evenodd"/>
+            <path id="Path_69" data-name="Path 69" d="M57.781,23A34.781,34.781,0,1,0,92.561,57.781,34.822,34.822,0,0,0,57.781,23" transform="translate(92.218 92.169)" fill="#84ebff" fill-rule="evenodd"/>
+            <path id="Path_70" data-name="Path 70" d="M103.082,48H22.853l34.08,59.589c.482,0,.954.035,1.431.035A148.916,148.916,0,0,0,177.532,48Z" transform="translate(92.576 192.376)" fill="#2a2a2a" fill-rule="evenodd"/>
+            <path id="Path_71" data-name="Path 71" d="M82.115,105.775a4.853,4.853,0,0,1-1.58-1.64L40.652,33.217,4.907,98.789a149.146,149.146,0,0,0,111.467,66.883Z" transform="translate(19.473 133.709)" fill="#84ebff" fill-rule="evenodd"/>
+            <path id="Path_72" data-name="Path 72" d="M85.919,69.482h80.408L126.826.02A149.033,149.033,0,0,0,4.642,69.482Z" transform="translate(18.421 -0.02)" fill="#84ebff" fill-rule="evenodd"/>
+            <path id="Path_73" data-name="Path 73" d="M72.065,71.3a4.841,4.841,0,0,1,.835,1.471l40.7,71.569,39.764-69.114A149.181,149.181,0,0,0,31.545.04Z" transform="translate(127.072 0.059)" fill="#2a2a2a" fill-rule="evenodd"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

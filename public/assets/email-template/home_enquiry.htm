@@ -1,0 +1,75 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+  	<meta charset="utf-8">
+    <title>Template</title>
+  </head>
+  	<body style="background:#fff; font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#333; margin:0px; padding:0px;">
+    
+    	<div style="width:700px; margin:auto;">
+      	<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" >
+        	<tr>
+          	<td style=" background:#CCC url({base_url}assets/email-template/images/h_bg.jpg) repeat-x center top; height:71px;"><a href="{base_url}"><img src="{base_url}assets/designer/images/logo.png" alt=""  border="0" align="left" style="padding:5px;" /></a></td>
+          </tr>
+          <tr>
+          	<td>
+            	<table border="0" width="100%">
+              	<tbody>
+                <tr><td style="height:10px;" colspan="2">&nbsp;</td></tr>
+                <tr>
+                	<td colspan="3"><strong>Dear {mem_name}</strong></td>
+                </tr>
+                <tr>
+                	<td colspan="3">&nbsp;</td>
+                </tr>
+                <tr>
+                	<td colspan="3">{content}</td>
+                </tr>
+                <tr>
+                	<td colspan="3">&nbsp;</td>
+                </tr>
+                <tr>
+                	<td width="10%"><strong>Name</strong></td>
+                  <td width="1%">:</td>
+                  <td width="85%"><span style="margin-top: 15px;">{name}</span></td>
+                </tr>
+                <tr>
+                	<td><strong>Email Id</strong></td>
+                  <td width="1%">:</td>
+                  <td><span style="margin-top: 15px;">{email}</span></td>
+                </tr>
+                 <tr>
+                	<td><strong>Mobile No.</strong></td>
+                  <td width="1%">:</td>
+                  <td><span style="margin-top: 15px;">{mobile}</span></td>
+                </tr>
+                
+                <tr>
+                	<td valign="top"><strong>Message</strong></td>
+                  <td valign="top" width="1%">:</td>
+                  <td valign="top"><span style="margin-top: 15px;">{comments}</span></td>
+                </tr>
+                
+                <tr>
+                	<td colspan="3">&nbsp;</td>
+                </tr>
+                </tbody>
+              </table>
+              
+            <br />
+            <span style="margin-top: 15px;"><strong>Thanks & Regards</strong><br />
+            {site_name} Customer Service<br />
+            Email: {admin_email} </span>
+            </td>
+          </tr>
+          <tr>
+          	<td>&nbsp;</td>
+          </tr>
+          <tr>
+          	<td style="background:#CCC; color:#000" align="center"><div style="margin:10px 0px; font-family: Arial, Helvetica, sans-serif; font-size:12px; " >© Copyright 2024 PRAXIM, All rights reserved. <span style="padding:0px 10px;"> </span>
+            </div></td>
+          </tr>
+        </table>
+     </div>
+   </body>
+</html>

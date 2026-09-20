@@ -1,0 +1,7 @@
+User-agent: *
+# Block specific admin or system folders (if they exist)
+Disallow: /admin/
+Disallow: /login/
+Disallow: /cgi-bin/
+Disallow: /thank-you/
+Disallow: /test-page/

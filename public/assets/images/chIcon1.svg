@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="93.464" viewBox="0 0 100 93.464">
+  <g id="chIcon1" transform="translate(-3.146 -3.991)">
+    <path id="Path_191" data-name="Path 191" d="M10.551,65.261a33.487,33.487,0,0,0,23.976,9.978A33.968,33.968,0,1,0,10.559,17.2l2.955,2.974a29.769,29.769,0,1,1,0,42.129Z" transform="translate(21.536 9.454)" fill="#fff"/>
+    <path id="Path_192" data-name="Path 192" d="M41.382,3.991A46.257,46.257,0,0,0,8.355,17.69l2.974,2.953A42.53,42.53,0,1,1,41.382,93.249,42.1,42.1,0,0,1,11.329,80.8L8.355,83.752a46.237,46.237,0,0,0,33.027,13.7,46.722,46.722,0,1,0,0-93.444Z" transform="translate(15.02 0)" fill="#fff"/>
+    <path id="Path_193" data-name="Path 193" d="M16.188,10.811v22.24h22.26V28.865H20.374V10.811Z" transform="translate(37.726 19.729)" fill="#fff"/>
+    <rect id="Rectangle_292" data-name="Rectangle 292" width="28.093" height="4.186" transform="translate(3.146 34.263)" fill="#fff"/>
+    <rect id="Rectangle_293" data-name="Rectangle 293" width="28.093" height="4.186" transform="translate(11.387 48.62)" fill="#fff"/>
+    <rect id="Rectangle_294" data-name="Rectangle 294" width="28.093" height="4.186" transform="translate(3.146 62.974)" fill="#fff"/>
+    <path id="Path_194" data-name="Path 194" d="M28.65,20.766a2.718,2.718,0,1,0-1.942-.8A2.738,2.738,0,0,0,28.65,20.766Z" transform="translate(65.828 32.666)" fill="#fff"/>
+  </g>
+</svg>
